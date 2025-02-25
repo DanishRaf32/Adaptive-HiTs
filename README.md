@@ -29,5 +29,8 @@ conda install -c conda-forge ipywidgets
 
 ## References
 <a id="1">[1]</a> 
+Asif Hamid, Danish Rafiq, Shahkar A. Nahvi and M. Abid Bazaz, Hierarchical deep learning-based adaptive time-stepping scheme for multiscale simulations, _Eng. Appl. Arti. Intell_, (133), 2024.
+
+<b id="2">[2]</b> 
 Yuying Liu, Nathan Kutz, and Steven Brunton, Hierarchical deep learning of multiscale differential equation time-steppers
-Phil. Trans. R. Soc. A., (380), 2022.
+_Phil. Trans. R. Soc. A._, (380), 2022.
